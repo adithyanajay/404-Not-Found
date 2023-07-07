@@ -35,8 +35,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
+![1](https://github.com/adithyanajay/404-Not-Found/assets/65997321/2374835f-e99b-45b3-a6c4-974a24e59937)
 
-![screenshot]([https://github.com/adithyanajay/404-Not-Found/blob/master/Screenshots/1.png](https://github.com/adithyanajay/404-Not-Found/blob/9c19a0e1b93d67a888398625c86a79f3001ddf3e/Screenshots/1.png))
 
 This is 404 Not Page. It is build with HTML and CSS
 - Note
