@@ -4,7 +4,9 @@
 .app {
     padding: 1.5rem;
     min-height: 100vh;
+    padding-bottom: 0;
 }
+
 .nav {
     width: 100%;
 }
@@ -18,6 +20,8 @@
     text-align: left;
     margin: auto;
     width: 100%;
+
+    
 }
 
 .hero-img-div {
@@ -45,7 +49,7 @@
     color: var(--secondary-grey);
     font-size: var(--text-lg);
     padding-right: 3rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .grey-btn {
@@ -63,8 +67,32 @@
 }
 
 
+.footer {
+    position: relative;
+    text-align: center;
+    font-size: var(--text-xs);
+    color: var(--secondary-grey);
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1rem 0;
+    margin-top: 3rem;
+}
+
+.footer>a {
+    color: var(--secondary-grey);
+    text-decoration: underline;
+}
+
 
 @media (min-width : 768px) {
+    .main {
+        min-height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .nav-heading {
         font-size: var(--text-2xl);
     }
@@ -84,22 +112,23 @@
 
     .content-para  {
         font-size: var(--text-xl);
+        margin-bottom: 4rem;
     }
+
+    /* .footer {
+        position: absolute;
+        bottom: 1rem;
+    } */
 }
 
 @media (min-width:1024px) {
-    .main {
-        min-height: 80vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
+    
     .container {
         display: flex;
         justify-content: space-between;
         align-items: center;
         gap: 5rem;
-        max-width: 1380px;  
+        max-width: 1180px;  
     }
     
 }
