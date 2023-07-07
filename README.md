@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 NOT FOUND}</h1>
+<h1 align="center">404 NOT FOUND</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/adithyanajay/404-Not-Found/blob/master/Screenshots/1.png)
+![screenshot]([https://github.com/adithyanajay/404-Not-Found/blob/master/Screenshots/1.png](https://github.com/adithyanajay/404-Not-Found/blob/9c19a0e1b93d67a888398625c86a79f3001ddf3e/Screenshots/1.png))
 
 This is 404 Not Page. It is build with HTML and CSS
 - Note
